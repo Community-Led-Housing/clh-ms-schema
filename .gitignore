@@ -1,0 +1,23 @@
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Python (for tools/)
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+
+# Temporary files
+*.log
+*.bak
+*.tmp
+*.swp
+
+# OS-specific
+*.lnk
