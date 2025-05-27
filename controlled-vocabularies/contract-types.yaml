@@ -1,0 +1,21 @@
+contract_types:
+- id: rental_agreement
+  label:
+    en: Rental Agreement
+    nl: Huurovereenkomst
+- id: use_right_certificate
+  label:
+    en: Use-Right Certificate
+    nl: Gebruikscertificaat
+- id: ownership_deed
+  label:
+    en: Ownership Deed
+    nl: Eigendomsoverdracht
+- id: membership_linked_right
+  label:
+    en: Membership-Linked Right
+    nl: Lidmaatschap-gebonden recht
+- id: occupancy_permit
+  label:
+    en: Occupancy Permit
+    nl: Bewonersvergunning

@@ -1,0 +1,24 @@
+legal_entity_types:
+- id: nl-bw2-association
+  name:
+    en: Dutch Association (Vereniging)
+    nl: Nederlandse Vereniging
+  legal_basis: Titel 2, Boek 2, BW
+  legal_reference: https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2&titeldeel=2
+  jurisdiction: NL
+  category: Non-profit / Civic
+  multilingual: true
+- id: nl-vve
+  name:
+    en: Dutch Association of Owners (VvE)
+    nl: Vereniging van Eigenaars
+  legal_basis: Afdeling 2, Boek 5, BW
+  legal_reference: https://wetten.overheid.nl/jci1.3:c:BWBR0005288&boek=5&titeldeel=9&afdeling=2
+  jurisdiction: NL
+  category: Real estate governance
+- id: eu-sce
+  name:
+    en: European Cooperative Society (SCE)
+  legal_reference: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003R1435
+  jurisdiction: EU
+  category: Cooperative

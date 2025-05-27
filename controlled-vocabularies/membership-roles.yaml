@@ -1,0 +1,25 @@
+membership_roles:
+- id: resident
+  label:
+    en: Resident
+    nl: Bewoner
+- id: member
+  label:
+    en: Cooperative Member
+    nl: Lid
+- id: funder
+  label:
+    en: Funder
+    nl: Financier
+- id: support_provider
+  label:
+    en: Support Provider
+    nl: Ondersteunende partij
+- id: volunteer
+  label:
+    en: Volunteer
+    nl: Vrijwilliger
+- id: governance_participant
+  label:
+    en: Governance Participant
+    nl: Bestuursdeelnemer
